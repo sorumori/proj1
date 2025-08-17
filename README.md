@@ -16,7 +16,6 @@ Additionally, central functions are tested with **JUnit** in:
 - Java
 - JUnit (unit testing)
 - Logger 
-- Reflection
 
 ## Documentation
-📄 Full project documentation: [see PDF here](docs/documentation.pdf)
+📄 Full project documentation: [see PDF here](docs/TarasLevankouDokumentationHA1.pdf)
